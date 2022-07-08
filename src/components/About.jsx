@@ -18,10 +18,10 @@ const About = () => {
                     </div>
                     <div>
                         <p>My journey into software development is a new one, coming from a media background, creating videos for clients in the academic field such as UCL.
-                    I then made my way into broadcast, becoming a multi-client Media Management Operator for the BBC, Channel 4 and 5. Over time however I began to
-                    see the appeal of coding and and having a career where there is always something to learn, room to grow, and what you get out reflects what you have put in. 
-                    I eventually dived in an an intense but comprehensive bootcamp course with LeWagon, who nurtured this intrigue and taught me the fundemental skills
-                    I needed to enter the industry. I'm pretty excited to see what I am capable of. 
+I then made my way into broadcast, becoming a multi-client Media Management Operator for the BBC, Channel 4 and 5. Over time however I began to
+see the appeal of coding and having a career where there is always something to learn, room to grow, and what you get out reflects what you have put in.
+I eventually dived in an intense but comprehensive bootcamp course with LeWagon, who nurtured this intrigue and taught me the fundamental skills
+I needed to enter the industry. I'm pretty excited to see what I am capable of.
                         </p>
                     </div>
                 </div>
