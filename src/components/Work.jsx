@@ -19,12 +19,12 @@ const Work = () => {
             </div>
 
         {/*Container*/}
-            <div 
+            <div
             className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
 
                 {/*Grid Item*/}
-                <div 
-                style={{ backgroundImage:`url(${HappyTails})` }} 
+                <div
+                style={{ backgroundImage:`url(${HappyTails})` }}
                 className='shadow-lg shadow-[#636363] group container rounded-md flex justify-center items-center mx-auto content-div '
                 >
 
@@ -43,8 +43,8 @@ const Work = () => {
                         </div>
                     </div>
                 </div>
-                 <div 
-                style={{ backgroundImage:`url(${UnderConstruction1})` }} 
+                 <div
+                style={{ backgroundImage:`url(${UnderConstruction1})` }}
                 className='shadow-lg shadow-[#636363] group container rounded-md flex justify-center items-center mx-auto content-div '
                 >
 
@@ -63,8 +63,8 @@ const Work = () => {
                         </div>
                     </div>
                 </div>
-                <div 
-                style={{ backgroundImage:`url(${UnderConstruction2})` }} 
+                <div
+                style={{ backgroundImage:`url(${UnderConstruction2})` }}
                 className='shadow-lg shadow-[#636363] group container rounded-md flex justify-center items-center mx-auto content-div '
                 >
 
@@ -83,8 +83,8 @@ const Work = () => {
                         </div>
                     </div>
                 </div>
-                <div 
-                style={{ backgroundImage:`url(${UnderConstruction3})` }} 
+                <div
+                style={{ backgroundImage:`url(${UnderConstruction3})` }}
                 className='shadow-lg shadow-[#636363] group container rounded-md flex justify-center items-center mx-auto content-div '
                 >
 
@@ -103,8 +103,8 @@ const Work = () => {
                         </div>
                     </div>
                 </div>
-                <div 
-                style={{ backgroundImage:`url(${UnderConstruction4})` }} 
+                <div
+                style={{ backgroundImage:`url(${UnderConstruction4})` }}
                 className='shadow-lg shadow-[#636363] group container rounded-md flex justify-center items-center mx-auto content-div '
                 >
 
@@ -123,8 +123,8 @@ const Work = () => {
                         </div>
                     </div>
                 </div>
-                <div 
-                style={{ backgroundImage:`url(${UnderConstruction5})` }} 
+                <div
+                style={{ backgroundImage:`url(${UnderConstruction5})` }}
                 className='shadow-lg shadow-[#636363] group container rounded-md flex justify-center items-center mx-auto content-div '
                 >
 
