@@ -1,8 +1,8 @@
 import React from 'react'
 import HappyTails from '../assets/HappyTails.png'
-import UnderConstruction1 from '../assets/UnderConstruction1.png'
-import UnderConstruction2 from '../assets/UnderConstruction2.png'
-import UnderConstruction3 from '../assets/UnderConstruction3.png'
+import WeatherAppIMG from '../assets/weather_app.png'
+import DisneyQuiz from '../assets/disney_quiz.png'
+import UnderConstruction3 from '../assets/disney_quiz.png'
 import UnderConstruction4 from '../assets/UnderConstruction4.png'
 import UnderConstruction5 from '../assets/UnderConstruction5.png'
 
@@ -27,8 +27,6 @@ const Work = () => {
                 style={{ backgroundImage:`url(${HappyTails})` }}
                 className='shadow-lg shadow-[#636363] group container rounded-md flex justify-center items-center mx-auto content-div '
                 >
-
-                    {/*Hover effects*/}
                     <div className='opacity-0 group-hover:opacity-100 flex flex-col justify-center items-center'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
                         Happy Tails
@@ -44,17 +42,16 @@ const Work = () => {
                     </div>
                 </div>
                  <div
-                style={{ backgroundImage:`url(${UnderConstruction1})` }}
+
+                style={{ backgroundImage:`url(${DisneyQuiz})` }}
                 className='shadow-lg shadow-[#636363] group container rounded-md flex justify-center items-center mx-auto content-div '
                 >
-
-                    {/*Hover effects*/}
                     <div className='opacity-0 group-hover:opacity-100 flex flex-col justify-center items-center'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                        TBC Project
+                        Who's That Disney Character?
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://main.d3oggay6i6v2u1.amplifyapp.com/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
                             <a href="/">
@@ -64,17 +61,16 @@ const Work = () => {
                     </div>
                 </div>
                 <div
-                style={{ backgroundImage:`url(${UnderConstruction2})` }}
+
+                style={{ backgroundImage:`url(${WeatherAppIMG})` }}
                 className='shadow-lg shadow-[#636363] group container rounded-md flex justify-center items-center mx-auto content-div '
                 >
-
-                    {/*Hover effects*/}
                     <div className='opacity-0 group-hover:opacity-100 flex flex-col justify-center items-center'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                        TBC Project
+                        Weather APP
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://weather-app-react-jhb.herokuapp.com/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
                             <a href="/">
@@ -84,11 +80,10 @@ const Work = () => {
                     </div>
                 </div>
                 <div
+
                 style={{ backgroundImage:`url(${UnderConstruction3})` }}
                 className='shadow-lg shadow-[#636363] group container rounded-md flex justify-center items-center mx-auto content-div '
                 >
-
-                    {/*Hover effects*/}
                     <div className='opacity-0 group-hover:opacity-100 flex flex-col justify-center items-center'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
                         TBC Project
@@ -104,11 +99,10 @@ const Work = () => {
                     </div>
                 </div>
                 <div
+
                 style={{ backgroundImage:`url(${UnderConstruction4})` }}
                 className='shadow-lg shadow-[#636363] group container rounded-md flex justify-center items-center mx-auto content-div '
                 >
-
-                    {/*Hover effects*/}
                     <div className='opacity-0 group-hover:opacity-100 flex flex-col justify-center items-center'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
                         TBC Project
@@ -124,11 +118,10 @@ const Work = () => {
                     </div>
                 </div>
                 <div
+
                 style={{ backgroundImage:`url(${UnderConstruction5})` }}
                 className='shadow-lg shadow-[#636363] group container rounded-md flex justify-center items-center mx-auto content-div '
                 >
-
-                    {/*Hover effects*/}
                     <div className='opacity-0 group-hover:opacity-100 flex flex-col justify-center items-center'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
                         TBC Project
