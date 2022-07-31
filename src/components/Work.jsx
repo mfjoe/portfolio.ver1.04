@@ -2,7 +2,7 @@ import React from 'react'
 import HappyTails from '../assets/HappyTails.png'
 import WeatherAppIMG from '../assets/weather_app.png'
 import DisneyQuiz from '../assets/disney_quiz.png'
-import UnderConstruction3 from '../assets/disney_quiz.png'
+import UnderConstruction3 from '../assets/UnderConstruction3.png'
 import UnderConstruction4 from '../assets/UnderConstruction4.png'
 import UnderConstruction5 from '../assets/UnderConstruction5.png'
 
