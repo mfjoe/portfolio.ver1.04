@@ -48,7 +48,7 @@ const Work = () => {
                 >
                     <div className='opacity-0 group-hover:opacity-100 flex flex-col justify-center items-center'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                        Who's That Disney Character?
+                        Disney Quiz
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="https://main.d3oggay6i6v2u1.amplifyapp.com/" target="_blank">
