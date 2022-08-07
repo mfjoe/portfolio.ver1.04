@@ -2,7 +2,7 @@ import React from 'react'
 import HappyTails from '../assets/HappyTails.png'
 import WeatherAppIMG from '../assets/weather_app.png'
 import DisneyQuiz from '../assets/disney_quiz.png'
-import UnderConstruction3 from '../assets/UnderConstruction3.png'
+import LevelUp from '../assets/level-up.png'
 import UnderConstruction4 from '../assets/UnderConstruction4.png'
 import UnderConstruction5 from '../assets/UnderConstruction5.png'
 
@@ -81,18 +81,18 @@ const Work = () => {
                 </div>
                 <div
 
-                style={{ backgroundImage:`url(${UnderConstruction3})` }}
+                style={{ backgroundImage:`url(${LevelUp})` }}
                 className='shadow-lg shadow-[#636363] group container rounded-md flex justify-center items-center mx-auto content-div '
                 >
                     <div className='opacity-0 group-hover:opacity-100 flex flex-col justify-center items-center'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                        TBC Project
+                        Level Up
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://sh-leveup.herokuapp.com" target="blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/soojinhwang/games-app" target="blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
