@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const About = () => {
   return (
     <div name='about' className='w-full h-screen bg-[#272930] text-gray-300'>
@@ -17,12 +18,10 @@ const About = () => {
                         <p>Hi! I'm Joe, nice to meet you, please take a look around.</p>
                     </div>
                     <div>
-                        <p>My journey into software development is a new one, coming from a media background, creating videos for clients in the academic field such as UCL.
-I then made my way into broadcast, becoming a multi-client Media Management Operator for the BBC, Channel 4 and 5. Over time however I began to
-see the appeal of coding and having a career where there is always something to learn, room to grow, and what you get out reflects what you have put in.
-I eventually dived in an intense but comprehensive bootcamp course with LeWagon, who nurtured this intrigue and taught me the fundamental skills
-I needed to enter the industry. I'm pretty excited to see what I am capable of.
+                        <p>Having transitioned from a successful career in media, where I produced videos for academia and managed multi-client media operations for the likes of BBC, Channel 4 and 5, I now find myself thriving in the dynamic world of software development. Fascinated by coding's limitless learning opportunities and the direct correlation between effort and output, I took the plunge into an intensive bootcamp course with LeWagon. This comprehensive program ignited my passion further and equipped me with the fundamental skills necessary to succeed in this industry. As I continue to grow and adapt in this ever-evolving field, I am excited to unlock my full potential and contribute to shaping the digital landscape.
                         </p>
+                        <br/> 
+                        <p>I've experience in many languages (listed below), as-well as Web API / RESTful services, Jenkins and Mockbird workflows</p>
                     </div>
                 </div>
             </div>
